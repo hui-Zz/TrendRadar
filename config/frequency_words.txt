@@ -1,13 +1,22 @@
+雷军
+小米
+米家
+Xiaomi
+Redmi
+SU7
+HyperOS
+红米
+酷态科
+小爱
+澎湃
+玄戒
+卢伟冰
+
 胖东来
 于东来
 
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
 
 比亚迪
 王传福
@@ -72,11 +81,6 @@ sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
